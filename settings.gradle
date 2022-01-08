@@ -1,0 +1,5 @@
+rootProject.name = 'spring-mvc1'
+include 'basic-function'
+include 'framework'
+include 'toy-project'
+
